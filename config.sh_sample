@@ -1,0 +1,9 @@
+#!/bin/sh
+
+export CONSUMER_KEY=
+export CONSUMER_SECRET=
+export ACCESS_TOKEN_KEY=
+export ACCESS_TOKEN_SECRET=
+
+# eval "firebase functions:config:set twitter.katayu810.consumer_key=$CONSUMER_KEY twitter.katayu810.consumer_secret=$CONSUMER_SECRET twitter.katayu810.access_token_key=$ACCESS_TOKEN_KEY twitter.katayu810.access_token_secret=$ACCESS_TOKEN_SECRET"
+# firebase functions:config:get
