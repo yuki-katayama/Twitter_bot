@@ -1,4 +1,4 @@
-# Twitter いいねボット
+# Twitter_bot
 
 ## 使い方
 
