@@ -2,7 +2,7 @@
 
 ## 使い方
 
-1. config.sh.sample を config.sh にリネーム
+1. config.sh_sample を config.sh にリネーム
 2. config.sh の中に鍵を記載していく
 
 ```
